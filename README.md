@@ -1,5 +1,5 @@
 # Data Cleaning and Analysis
-Data Cleaning and Explanatory Data Analysis in SQL using Mysql Community Server. Working on dataset of layoffs from the link provided. 
+Data Cleaning and Explanatory Data Analysis of provided data in SQL using Mysql Community Server. 
 
 #
 
