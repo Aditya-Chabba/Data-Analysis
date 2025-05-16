@@ -7,7 +7,7 @@ Data Cleaning and Explanatory Data Analysis of provided data in SQL using Mysql 
 https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv
 
 # Project type :-
-Data Cleaning and Analysis
+Data Cleaning and Data Analysis
 
 # Explanation :-
 
